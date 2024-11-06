@@ -146,5 +146,6 @@ if (apply_filters('mesmerize_is_companion_installed', false)) {
     });
     
 }
-
-highlight_side_navigation_controls(1, 'side_navigation');
+add_action('init' , function() {
+    highlight_side_navigation_controls(1, 'side_navigation');
+});
