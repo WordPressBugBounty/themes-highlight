@@ -4,7 +4,7 @@ Contributors: extendthemes
 Tags: entertainment, food-and-drink, portfolio, one-column, two-columns, right-sidebar, grid-layout, custom-header, custom-menu, custom-logo, full-width-template, theme-options, translation-ready, featured-images, threaded-comments
 Requires at least: 5.6
 Tested up to: 6.7
-Stable tag: 1.0.40
+Stable tag: 1.0.42
 License: GPLv3 or later
 License URI:
 Requires PHP: 5.6
@@ -25,7 +25,7 @@ To customize the Highlight theme you have to open the Customizer by accessing th
 == Changelog ==
 
 
-= 1.0.40 =
+= 1.0.42 =
 
 * Fixed readme file
 * Added preview images inside theme
